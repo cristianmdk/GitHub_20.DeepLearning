@@ -1,0 +1,27 @@
+{
+  "name": "github_20.deeplearning",
+  "version": "1.0.0",
+  "description": "The course will implement Pytorch. The folder contents basic concepts of Deep Learning, Pytorch, how to train our model, and finally an example where we implement all of these in a project with Cycle Gan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianmdk/GitHub_20.DeepLearning.git"
+  },
+  "keywords": [
+    "DeepLearning",
+    "CycleGan",
+    "Generative",
+    "Convolutional",
+    "Pytorch",
+    "Colab"
+  ],
+  "author": "Cristian Angulo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristianmdk/GitHub_20.DeepLearning/issues"
+  },
+  "homepage": "https://github.com/cristianmdk/GitHub_20.DeepLearning#readme"
+}
